@@ -1,5 +1,11 @@
 # ttr: Practise Your Typing in Terminal
 
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![Rust](https://img.shields.io/badge/Rust-stable-orange.svg)](https://www.rust-lang.org)  
+[![Repo](https://img.shields.io/badge/github-aashish--thapa%2Fttr-lightgrey.svg)](https://github.com/aashish-thapa/ttr)
+
+
 `ttr` is a simple, fast, and feature-rich typing trainer for the terminal.  
 It's built in **Rust** for high performance and offers a seamless, non-flickering typing experience directly in your command line.
 
@@ -95,7 +101,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
-Created by [**iamaashishthapa**](https://github.com/aashish-thapa).
+Created by [**aashish-thapa**](https://github.com/aashish-thapa).
 
 ```
 ```
