@@ -23,6 +23,9 @@ Whether you want to practice with a specific text or just want a quick, randomiz
 
 ---
 
+## ScreenShots
+<img width="516" height="219" alt="image" src="https://github.com/user-attachments/assets/bd981bfb-5495-446d-9c64-78ae0c5f2ec3" />
+<img width="331" height="162" alt="image" src="https://github.com/user-attachments/assets/59a265b2-6bcc-4a01-8b48-d3471111a793" />
 ## 🚀 Installation
 
 ### 📦 Install from crates.io (recommended)
@@ -35,10 +38,10 @@ cargo install ttr
 This will download, build, and place the binary in ~/.cargo/bin.
 Make sure that directory is in your PATH.
 `ttr` is easy to install if you have the Rust toolchain installed.
-## ScreenShots
-<img width="516" height="219" alt="image" src="https://github.com/user-attachments/assets/bd981bfb-5495-446d-9c64-78ae0c5f2ec3" />
-<img width="331" height="162" alt="image" src="https://github.com/user-attachments/assets/59a265b2-6bcc-4a01-8b48-d3471111a793" />
-<img width="470" height="263" alt="image" src="https://github.com/user-attachments/assets/9f86c6d2-eecf-4c6a-b0cc-de0306b6a949" />
+
+<img width="948" height="507" alt="screenshot_2025-08-24_01-36-47" src="https://github.com/user-attachments/assets/f9737596-1810-44e9-a0e0-dd9fed1ac1f0" />
+
+
 
 
 ### Run Locally
