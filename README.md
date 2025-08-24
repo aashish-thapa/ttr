@@ -29,7 +29,7 @@ Whether you want to practice with a specific text or just want a quick, randomiz
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/iamaashishthapa/ttr.git
+   git clone https://github.com/aashish-thapa/ttr.git
    cd ttr
     ````
 
