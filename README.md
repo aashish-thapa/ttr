@@ -2,7 +2,8 @@
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Rust](https://img.shields.io/badge/Rust-stable-orange.svg)](https://www.rust-lang.org)  
+[![Rust](https://img.shields.io/badge/Rust-stable-orange.svg)](https://www.rust-lang.org) 
+[![Crates.io](https://img.shields.io/crates/v/ttr.svg)](https://crates.io/crates/ttr)  
 [![Repo](https://img.shields.io/badge/github-aashish--thapa%2Fttr-lightgrey.svg)](https://github.com/aashish-thapa/ttr)
 
 
@@ -24,7 +25,18 @@ Whether you want to practice with a specific text or just want a quick, randomiz
 
 ## 🚀 Installation
 
+### 📦 Install from crates.io (recommended)
+
+If you have Rust installed, you can install `ttr` directly with Cargo:
+
+```bash
+cargo install ttr
+```
+This will download, build, and place the binary in ~/.cargo/bin.
+Make sure that directory is in your PATH.
 `ttr` is easy to install if you have the Rust toolchain installed.
+
+### Run Locally
 
 1. **Clone the repository**:
 
