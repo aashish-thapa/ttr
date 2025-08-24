@@ -95,7 +95,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
-Created by [**iamaashishthapa**](https://github.com/iamaashishthapa).
+Created by [**iamaashishthapa**](https://github.com/aashish-thapa).
 
 ```
 ```
