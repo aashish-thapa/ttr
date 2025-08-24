@@ -2,7 +2,7 @@
 name = "ttr"
 version = "0.1.0"
 edition = "2024"
-authors = ["Aashish Thapa <your-email@example.com>"]
+authors = ["Aashish Thapa aashishthapa520@gmail.com"]
 description = "The Terminal Typing Trainer – a fast, feature-rich typing trainer for the terminal, built in Rust."
 license = "MIT"
 repository = "https://github.com/aashish-thapa/ttr"
