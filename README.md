@@ -26,6 +26,8 @@ Whether you want to practice with a specific text or just want a quick, randomiz
 ## ScreenShots
 <img width="516" height="219" alt="image" src="https://github.com/user-attachments/assets/bd981bfb-5495-446d-9c64-78ae0c5f2ec3" />
 <img width="331" height="162" alt="image" src="https://github.com/user-attachments/assets/59a265b2-6bcc-4a01-8b48-d3471111a793" />
+
+
 ## 🚀 Installation
 
 ### 📦 Install from crates.io (recommended)
