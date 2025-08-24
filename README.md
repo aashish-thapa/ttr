@@ -35,6 +35,9 @@ cargo install ttr
 This will download, build, and place the binary in ~/.cargo/bin.
 Make sure that directory is in your PATH.
 `ttr` is easy to install if you have the Rust toolchain installed.
+## ScreenShots
+<img width="516" height="219" alt="image" src="https://github.com/user-attachments/assets/bd981bfb-5495-446d-9c64-78ae0c5f2ec3" />
+<img width="331" height="162" alt="image" src="https://github.com/user-attachments/assets/59a265b2-6bcc-4a01-8b48-d3471111a793" />
 
 ### Run Locally
 
