@@ -2,6 +2,14 @@
 name = "ttr"
 version = "0.1.0"
 edition = "2024"
+authors = ["Aashish Thapa <your-email@example.com>"]
+description = "The Terminal Typing Trainer – a fast, feature-rich typing trainer for the terminal, built in Rust."
+license = "MIT"
+repository = "https://github.com/aashish-thapa/ttr"
+homepage = "https://github.com/aashish-thapa/ttr"
+readme = "README.md"
+keywords = ["typing", "trainer", "cli", "terminal"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 crossterm = "0.29" 
